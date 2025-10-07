@@ -1,0 +1,721 @@
+[
+  {
+    "id": 10,
+    "name": "Counter-Strike",
+    "type": "game",
+    "req_age": 0,
+    "categories": [
+      {
+        "id": 1,
+        "description": "Multi-player"
+      },
+      {
+        "id": 49,
+        "description": "PvP"
+      },
+      {
+        "id": 36,
+        "description": "Online PvP"
+      },
+      {
+        "id": 37,
+        "description": "Shared/Split Screen PvP"
+      },
+      {
+        "id": 66,
+        "description": "Color Alternatives"
+      },
+      {
+        "id": 68,
+        "description": "Custom Volume Controls"
+      },
+      {
+        "id": 75,
+        "description": "Keyboard Only Option"
+      },
+      {
+        "id": 69,
+        "description": "Stereo Sound"
+      },
+      {
+        "id": 8,
+        "description": "Valve Anti-Cheat enabled"
+      },
+      {
+        "id": 62,
+        "description": "Family Sharing"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 0,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000000132.600x338.jpg?t=1745368572",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000000132.1920x1080.jpg?t=1745368572"
+      },
+      {
+        "id": 1,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000000133.600x338.jpg?t=1745368572",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000000133.1920x1080.jpg?t=1745368572"
+      },
+      {
+        "id": 2,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000000134.600x338.jpg?t=1745368572",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000000134.1920x1080.jpg?t=1745368572"
+      },
+      {
+        "id": 3,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000000135.600x338.jpg?t=1745368572",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000000135.1920x1080.jpg?t=1745368572"
+      },
+      {
+        "id": 4,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000000136.600x338.jpg?t=1745368572",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000000136.1920x1080.jpg?t=1745368572"
+      },
+      {
+        "id": 5,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002540.600x338.jpg?t=1745368572",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002540.1920x1080.jpg?t=1745368572"
+      },
+      {
+        "id": 6,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002539.600x338.jpg?t=1745368572",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002539.1920x1080.jpg?t=1745368572"
+      },
+      {
+        "id": 7,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002538.600x338.jpg?t=1745368572",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002538.1920x1080.jpg?t=1745368572"
+      },
+      {
+        "id": 8,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002537.600x338.jpg?t=1745368572",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002537.1920x1080.jpg?t=1745368572"
+      },
+      {
+        "id": 9,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002536.600x338.jpg?t=1745368572",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002536.1920x1080.jpg?t=1745368572"
+      },
+      {
+        "id": 10,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002541.600x338.jpg?t=1745368572",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002541.1920x1080.jpg?t=1745368572"
+      },
+      {
+        "id": 11,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002542.600x338.jpg?t=1745368572",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002542.1920x1080.jpg?t=1745368572"
+      },
+      {
+        "id": 12,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002543.600x338.jpg?t=1745368572",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002543.1920x1080.jpg?t=1745368572"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Team Fortress Classic",
+    "type": "game",
+    "req_age": 0,
+    "categories": [
+      {
+        "id": 1,
+        "description": "Multi-player"
+      },
+      {
+        "id": 49,
+        "description": "PvP"
+      },
+      {
+        "id": 36,
+        "description": "Online PvP"
+      },
+      {
+        "id": 37,
+        "description": "Shared/Split Screen PvP"
+      },
+      {
+        "id": 68,
+        "description": "Custom Volume Controls"
+      },
+      {
+        "id": 75,
+        "description": "Keyboard Only Option"
+      },
+      {
+        "id": 69,
+        "description": "Stereo Sound"
+      },
+      {
+        "id": 8,
+        "description": "Valve Anti-Cheat enabled"
+      },
+      {
+        "id": 44,
+        "description": "Remote Play Together"
+      },
+      {
+        "id": 62,
+        "description": "Family Sharing"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 0,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/0000000164.600x338.jpg?t=1745368565",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/0000000164.1920x1080.jpg?t=1745368565"
+      },
+      {
+        "id": 1,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/0000000165.600x338.jpg?t=1745368565",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/0000000165.1920x1080.jpg?t=1745368565"
+      },
+      {
+        "id": 2,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/0000000166.600x338.jpg?t=1745368565",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/0000000166.1920x1080.jpg?t=1745368565"
+      },
+      {
+        "id": 3,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/0000000167.600x338.jpg?t=1745368565",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/0000000167.1920x1080.jpg?t=1745368565"
+      },
+      {
+        "id": 4,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/0000000168.600x338.jpg?t=1745368565",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/0000000168.1920x1080.jpg?t=1745368565"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Day of Defeat",
+    "type": "game",
+    "req_age": 0,
+    "categories": [
+      {
+        "id": 1,
+        "description": "Multi-player"
+      },
+      {
+        "id": 67,
+        "description": "Camera Comfort"
+      },
+      {
+        "id": 66,
+        "description": "Color Alternatives"
+      },
+      {
+        "id": 68,
+        "description": "Custom Volume Controls"
+      },
+      {
+        "id": 69,
+        "description": "Stereo Sound"
+      },
+      {
+        "id": 8,
+        "description": "Valve Anti-Cheat enabled"
+      },
+      {
+        "id": 62,
+        "description": "Family Sharing"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 0,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/30/0000000169.600x338.jpg?t=1745368580",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/30/0000000169.1920x1080.jpg?t=1745368580"
+      },
+      {
+        "id": 1,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/30/0000000170.600x338.jpg?t=1745368580",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/30/0000000170.1920x1080.jpg?t=1745368580"
+      },
+      {
+        "id": 2,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/30/0000000171.600x338.jpg?t=1745368580",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/30/0000000171.1920x1080.jpg?t=1745368580"
+      },
+      {
+        "id": 3,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/30/0000000172.600x338.jpg?t=1745368580",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/30/0000000172.1920x1080.jpg?t=1745368580"
+      },
+      {
+        "id": 4,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/30/0000000173.600x338.jpg?t=1745368580",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/30/0000000173.1920x1080.jpg?t=1745368580"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Deathmatch Classic",
+    "type": "game",
+    "req_age": 0,
+    "categories": [
+      {
+        "id": 1,
+        "description": "Multi-player"
+      },
+      {
+        "id": 49,
+        "description": "PvP"
+      },
+      {
+        "id": 36,
+        "description": "Online PvP"
+      },
+      {
+        "id": 37,
+        "description": "Shared/Split Screen PvP"
+      },
+      {
+        "id": 66,
+        "description": "Color Alternatives"
+      },
+      {
+        "id": 68,
+        "description": "Custom Volume Controls"
+      },
+      {
+        "id": 75,
+        "description": "Keyboard Only Option"
+      },
+      {
+        "id": 69,
+        "description": "Stereo Sound"
+      },
+      {
+        "id": 8,
+        "description": "Valve Anti-Cheat enabled"
+      },
+      {
+        "id": 44,
+        "description": "Remote Play Together"
+      },
+      {
+        "id": 62,
+        "description": "Family Sharing"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 0,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40/0000000142.600x338.jpg?t=1745368570",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40/0000000142.1920x1080.jpg?t=1745368570"
+      },
+      {
+        "id": 1,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40/0000000143.600x338.jpg?t=1745368570",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40/0000000143.1920x1080.jpg?t=1745368570"
+      },
+      {
+        "id": 2,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40/0000000144.600x338.jpg?t=1745368570",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40/0000000144.1920x1080.jpg?t=1745368570"
+      },
+      {
+        "id": 3,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40/0000000145.600x338.jpg?t=1745368570",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40/0000000145.1920x1080.jpg?t=1745368570"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Half-Life: Opposing Force",
+    "type": "game",
+    "req_age": 0,
+    "categories": [
+      {
+        "id": 2,
+        "description": "Single-player"
+      },
+      {
+        "id": 1,
+        "description": "Multi-player"
+      },
+      {
+        "id": 68,
+        "description": "Custom Volume Controls"
+      },
+      {
+        "id": 78,
+        "description": "Adjustable Difficulty"
+      },
+      {
+        "id": 74,
+        "description": "Playable without Timed Input"
+      },
+      {
+        "id": 79,
+        "description": "Save Anytime"
+      },
+      {
+        "id": 8,
+        "description": "Valve Anti-Cheat enabled"
+      },
+      {
+        "id": 62,
+        "description": "Family Sharing"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 0,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/50/0000000155.600x338.jpg?t=1745368539",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/50/0000000155.1920x1080.jpg?t=1745368539"
+      },
+      {
+        "id": 1,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/50/0000000156.600x338.jpg?t=1745368539",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/50/0000000156.1920x1080.jpg?t=1745368539"
+      },
+      {
+        "id": 2,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/50/0000000157.600x338.jpg?t=1745368539",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/50/0000000157.1920x1080.jpg?t=1745368539"
+      },
+      {
+        "id": 3,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/50/0000000158.600x338.jpg?t=1745368539",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/50/0000000158.1920x1080.jpg?t=1745368539"
+      },
+      {
+        "id": 4,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/50/0000000159.600x338.jpg?t=1745368539",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/50/0000000159.1920x1080.jpg?t=1745368539"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Ricochet",
+    "type": "game",
+    "req_age": 0,
+    "categories": [
+      {
+        "id": 1,
+        "description": "Multi-player"
+      },
+      {
+        "id": 49,
+        "description": "PvP"
+      },
+      {
+        "id": 36,
+        "description": "Online PvP"
+      },
+      {
+        "id": 68,
+        "description": "Custom Volume Controls"
+      },
+      {
+        "id": 75,
+        "description": "Keyboard Only Option"
+      },
+      {
+        "id": 69,
+        "description": "Stereo Sound"
+      },
+      {
+        "id": 8,
+        "description": "Valve Anti-Cheat enabled"
+      },
+      {
+        "id": 62,
+        "description": "Family Sharing"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 0,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/60/ss_2bf674132e28385f168dbc46ff55eea7be8c8886.600x338.jpg?t=1745368568",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/60/ss_2bf674132e28385f168dbc46ff55eea7be8c8886.1920x1080.jpg?t=1745368568"
+      },
+      {
+        "id": 1,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/60/ss_079e05789d40144896f9b16fd49c5a34c8768ac6.600x338.jpg?t=1745368568",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/60/ss_079e05789d40144896f9b16fd49c5a34c8768ac6.1920x1080.jpg?t=1745368568"
+      },
+      {
+        "id": 2,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/60/ss_4c2c88a7c85d64ccaa927c5834244ebf9798cd43.600x338.jpg?t=1745368568",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/60/ss_4c2c88a7c85d64ccaa927c5834244ebf9798cd43.1920x1080.jpg?t=1745368568"
+      },
+      {
+        "id": 3,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/60/ss_6b52f574cd64e596ab903de4a23c87b57d5d8425.600x338.jpg?t=1745368568",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/60/ss_6b52f574cd64e596ab903de4a23c87b57d5d8425.1920x1080.jpg?t=1745368568"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Half-Life",
+    "type": "game",
+    "req_age": 0,
+    "categories": [
+      {
+        "id": 2,
+        "description": "Single-player"
+      },
+      {
+        "id": 1,
+        "description": "Multi-player"
+      },
+      {
+        "id": 49,
+        "description": "PvP"
+      },
+      {
+        "id": 36,
+        "description": "Online PvP"
+      },
+      {
+        "id": 28,
+        "description": "Full controller support"
+      },
+      {
+        "id": 66,
+        "description": "Color Alternatives"
+      },
+      {
+        "id": 68,
+        "description": "Custom Volume Controls"
+      },
+      {
+        "id": 78,
+        "description": "Adjustable Difficulty"
+      },
+      {
+        "id": 75,
+        "description": "Keyboard Only Option"
+      },
+      {
+        "id": 74,
+        "description": "Playable without Timed Input"
+      },
+      {
+        "id": 79,
+        "description": "Save Anytime"
+      },
+      {
+        "id": 69,
+        "description": "Stereo Sound"
+      },
+      {
+        "id": 23,
+        "description": "Steam Cloud"
+      },
+      {
+        "id": 8,
+        "description": "Valve Anti-Cheat enabled"
+      },
+      {
+        "id": 41,
+        "description": "Remote Play on Phone"
+      },
+      {
+        "id": 42,
+        "description": "Remote Play on Tablet"
+      },
+      {
+        "id": 62,
+        "description": "Family Sharing"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 0,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/0000002354.600x338.jpg?t=1745368462",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/0000002354.1920x1080.jpg?t=1745368462"
+      },
+      {
+        "id": 1,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/0000002343.600x338.jpg?t=1745368462",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/0000002343.1920x1080.jpg?t=1745368462"
+      },
+      {
+        "id": 2,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/0000002342.600x338.jpg?t=1745368462",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/0000002342.1920x1080.jpg?t=1745368462"
+      },
+      {
+        "id": 3,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/0000002344.600x338.jpg?t=1745368462",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/0000002344.1920x1080.jpg?t=1745368462"
+      },
+      {
+        "id": 4,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/0000002345.600x338.jpg?t=1745368462",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/0000002345.1920x1080.jpg?t=1745368462"
+      },
+      {
+        "id": 5,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/0000002352.600x338.jpg?t=1745368462",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/0000002352.1920x1080.jpg?t=1745368462"
+      },
+      {
+        "id": 6,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/0000002347.600x338.jpg?t=1745368462",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/0000002347.1920x1080.jpg?t=1745368462"
+      },
+      {
+        "id": 7,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/0000002348.600x338.jpg?t=1745368462",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/0000002348.1920x1080.jpg?t=1745368462"
+      },
+      {
+        "id": 8,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/0000002349.600x338.jpg?t=1745368462",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/0000002349.1920x1080.jpg?t=1745368462"
+      },
+      {
+        "id": 9,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/0000002350.600x338.jpg?t=1745368462",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/0000002350.1920x1080.jpg?t=1745368462"
+      },
+      {
+        "id": 10,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/0000002351.600x338.jpg?t=1745368462",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/0000002351.1920x1080.jpg?t=1745368462"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Counter-Strike: Condition Zero",
+    "type": "game",
+    "req_age": 0,
+    "categories": [
+      {
+        "id": 2,
+        "description": "Single-player"
+      },
+      {
+        "id": 1,
+        "description": "Multi-player"
+      },
+      {
+        "id": 66,
+        "description": "Color Alternatives"
+      },
+      {
+        "id": 68,
+        "description": "Custom Volume Controls"
+      },
+      {
+        "id": 78,
+        "description": "Adjustable Difficulty"
+      },
+      {
+        "id": 69,
+        "description": "Stereo Sound"
+      },
+      {
+        "id": 8,
+        "description": "Valve Anti-Cheat enabled"
+      },
+      {
+        "id": 62,
+        "description": "Family Sharing"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 0,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80/0000002528.600x338.jpg?t=1745368574",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80/0000002528.1920x1080.jpg?t=1745368574"
+      },
+      {
+        "id": 1,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80/0000002529.600x338.jpg?t=1745368574",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80/0000002529.1920x1080.jpg?t=1745368574"
+      },
+      {
+        "id": 2,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80/0000002530.600x338.jpg?t=1745368574",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80/0000002530.1920x1080.jpg?t=1745368574"
+      },
+      {
+        "id": 3,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80/0000002531.600x338.jpg?t=1745368574",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80/0000002531.1920x1080.jpg?t=1745368574"
+      },
+      {
+        "id": 4,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80/0000002532.600x338.jpg?t=1745368574",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80/0000002532.1920x1080.jpg?t=1745368574"
+      },
+      {
+        "id": 5,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80/0000002533.600x338.jpg?t=1745368574",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80/0000002533.1920x1080.jpg?t=1745368574"
+      },
+      {
+        "id": 6,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80/0000002534.600x338.jpg?t=1745368574",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80/0000002534.1920x1080.jpg?t=1745368574"
+      },
+      {
+        "id": 7,
+        "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80/0000002535.600x338.jpg?t=1745368574",
+        "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80/0000002535.1920x1080.jpg?t=1745368574"
+      }
+    ]
+  }
+]
